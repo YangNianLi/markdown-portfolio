@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![minions](http://img.inmywordz.com/uploads/20170515152306_62.jpg)
